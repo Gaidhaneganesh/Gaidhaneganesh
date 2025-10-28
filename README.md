@@ -1,6 +1,6 @@
 # Gaidhaneganesh 👨‍💻
 
-## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 ## 👋 About Me
 
@@ -23,7 +23,7 @@ Beyond coding, I am passionate about cricket and believe in the value of teamwor
 
 ---
 
-## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 > *“Success is not the key to happiness. Happiness is the key to success.”*
 
