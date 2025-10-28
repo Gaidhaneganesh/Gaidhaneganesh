@@ -1,6 +1,6 @@
 # Gaidhaneganesh 👨‍💻
 
-## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 ## 👋 About Me
 
@@ -13,7 +13,7 @@ I am a third-year Bachelor of Computer Science (BCS) student with a keen interes
 - **Programming Languages:** Java, Python
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Development Areas:** Web Applications, Software Engineering
-- **Other Interests:** 🏏 Cricket
+- **Other Interests:** Indoor and outdoor Games
 
 ---
 
@@ -23,7 +23,7 @@ Beyond coding, I am passionate about cricket and believe in the value of teamwor
 
 ---
 
-## 🎨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨🎨
+## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 > *“Success is not the key to happiness. Happiness is the key to success.”*
 
