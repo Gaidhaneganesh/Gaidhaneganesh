@@ -1,15 +1,6 @@
 # Gaidhaneganesh 👨‍💻
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BCS-Third%20Year-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Creativity%20%26%20Precision-green?style=flat-square" />
-</p>
-
----
-
-## 🎨✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨🎨
+## ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 ## 👋 About Me
 
