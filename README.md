@@ -19,7 +19,7 @@ I am a third-year Bachelor of Computer Science (BCS) student with a keen interes
 
 ## 🌱 Professional Interests
 
-Beyond coding, I am passionate about cricket and believe in the value of teamwork and continuous growth.
+Beyond coding, I am passionate about coding and believe in the value of teamwork and continuous growth.
 
 ---
 
